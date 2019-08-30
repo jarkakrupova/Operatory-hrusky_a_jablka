@@ -3,3 +3,4 @@ Hokus pokus
 Hokus pokus 2
 prvni nepushnuty commit
 druhy nepushnuty commit
+tøetí nepushnutý commit
