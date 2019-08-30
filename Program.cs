@@ -9,7 +9,7 @@ namespace HruskyAJablka {
         private double obvod;
         public double Obvod {
             get { return obvod; }
-            set { obvod = value; }
+            set { obvod = value; } 
         }
         private double prumer;
         public double Prumer {
