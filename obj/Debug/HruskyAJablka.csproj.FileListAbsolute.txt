@@ -1,0 +1,7 @@
+C:\Users\Jarka\AppData\Local\Temporary Projects\HruskyAJablka\bin\Debug\HruskyAJablka.exe.config
+C:\Users\Jarka\AppData\Local\Temporary Projects\HruskyAJablka\bin\Debug\HruskyAJablka.exe
+C:\Users\Jarka\AppData\Local\Temporary Projects\HruskyAJablka\bin\Debug\HruskyAJablka.pdb
+C:\Users\Jarka\AppData\Local\Temporary Projects\HruskyAJablka\obj\Debug\HruskyAJablka.csprojAssemblyReference.cache
+C:\Users\Jarka\AppData\Local\Temporary Projects\HruskyAJablka\obj\Debug\HruskyAJablka.csproj.CoreCompileInputs.cache
+C:\Users\Jarka\AppData\Local\Temporary Projects\HruskyAJablka\obj\Debug\HruskyAJablka.exe
+C:\Users\Jarka\AppData\Local\Temporary Projects\HruskyAJablka\obj\Debug\HruskyAJablka.pdb
