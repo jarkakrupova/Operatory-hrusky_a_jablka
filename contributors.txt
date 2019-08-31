@@ -12,3 +12,4 @@ Zmena na konci souboru
 Posledni radek
 Last line, hopefully.
 Tak teda jeste rebase, no.
+Fuck GIT
